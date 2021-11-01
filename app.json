@@ -42,12 +42,12 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "Coffe_LatteBot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞 𝐂𝐨𝐟𝐟𝐞𝐞 𝐋𝐚𝐭𝐭𝐞"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
@@ -62,7 +62,7 @@
         "OWNER_NAME": {
             "description": "fill with your username without @",
             "required": false,
-            "value": "dlwrml"
+            "value": "psycholy9"
         },
         "API_ID": {
             "description": "your App ID from my.telegram.org/apps",
@@ -89,12 +89,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": "DiaryFcl"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": "famscoffe"
         }
     },
     "buildpacks": [
