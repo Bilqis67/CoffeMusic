@@ -1,9 +1,9 @@
 {
-    "name": "Veez Music Bot",
-    "logo": "https://i.postimg.cc/SQBqsJjN/logo8-11-232731.png",
+    "name": "Music Bot",
+    "logo": "https://telegra.ph/file/f88e0620f1970936b3e95.png",
     "description": "Veez Music project allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/Bilqis67/CoffeMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
